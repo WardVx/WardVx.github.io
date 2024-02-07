@@ -14,13 +14,6 @@ Let me show you around my different projects.
 
 etc..
 
-**Summary**
-|      |PROPPERTY  |PROP..  |
-|------|-----------|--------|
-|Text1 |`Text1`    |        |
-|Text2 |`Text2`    |        |
-|Text3 |`Text3`    |        |
-
 |
 
 >`wardvx.github.io`
