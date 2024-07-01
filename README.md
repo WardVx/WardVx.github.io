@@ -1,20 +1,14 @@
-# Welcome to WardVx's Github.IO page
-Let me show you around my different projects.
+# Welcome to my Github.IO page
+## Projects *(Public)*
 
-**Projects**
-- Project1
-  
-  Project1 desc
-  >`Project1.link`
-  
-- Project2
+- [PiServer](https://github.com/WardVx/PiServer)
+	- Python server that listens to incomming signals from an android app.
+	- Controlls a piston (Or any IO output) on Raspberry Pi
+- [PiSerber-Android-App](https://github.com/WardVx/PiServer-Android-App)
+	- Android app for talking to the PiServer app
+	- LAN only
 
-  Project2 desc
-  >`Project2.link`
+## Other projects
 
-etc..
-
-|
-
->`wardvx.github.io`
-
+- Multiple Power Automate Desktop projects
+- WakeOnLan server
