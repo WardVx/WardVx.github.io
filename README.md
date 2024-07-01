@@ -8,7 +8,7 @@
 	- Android app for talking to the PiServer app
 	- LAN only
 
-## Other projects
+## Other projects *(Private)*
 
 - Multiple Power Automate Desktop projects
 - WakeOnLan server
